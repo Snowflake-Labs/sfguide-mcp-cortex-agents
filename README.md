@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/snowflake-labs-sfguide-mcp-cortex-agents-badge.png)](https://mseep.ai/app/snowflake-labs-sfguide-mcp-cortex-agents)
+
 # Build an MCP Server for Cortex Agents
 
 ## Overview
